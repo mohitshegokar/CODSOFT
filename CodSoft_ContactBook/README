@@ -1,0 +1,13 @@
+Contact Book Application
+A simple Python command-line Contact Book application that lets you manage contacts easily. You can add, view, search, update, and delete contacts with validation for names, phone numbers, and emails.
+Features
+ Add new contacts with:
+  Name
+  Phone number (10 digits)
+  Email
+  Address
+ View all saved contacts.
+ Search for a contact by name or phone number.
+ Update contact details.
+ Delete a contact.
+ Input validation for name, phone, and email to avoid errors.
