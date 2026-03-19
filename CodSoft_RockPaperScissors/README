@@ -1,0 +1,11 @@
+Rock Paper Scissors Game
+ A simple command-line Rock Paper Scissors game built with Python, where you play against the computer. Keep track of wins, losses, and ties with a running score.
+
+Features
+ Play Rock, Paper, Scissors against the computer.
+ Real-time score tracking for you, the computer, and ties.
+ Simple and interactive command-line interface.
+ Option to replay multiple rounds until you decide to quit.
+Notes
+ The game is case-insensitive; Rock, rock, or ROCK all work.
+ Invalid inputs will prompt a warning without affecting scores.
