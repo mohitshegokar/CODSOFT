@@ -1,0 +1,17 @@
+To-Do List Application (Tkinter)
+A simple and user-friendly To-Do List application built using Python's Tkinter library. This app allows users to add, remove, and manage daily tasks with ease.
+
+Features
+ Add new tasks
+ Remove selected task
+ Delete all tasks with confirmation
+ Warning messages for invalid actions
+ Exit the application
+
+How It Works
+Enter a task in the input field.
+Click "Add Task" to add it to the list.
+Select a task and click "Remove Selected Task" to delete it.
+Click "Delete All Tasks" to clear the entire list.
+Click "Exit" to close the application.
+
